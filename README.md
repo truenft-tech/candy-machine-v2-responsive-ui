@@ -38,6 +38,8 @@ Vercel will automatically deploy new prod packages for each new commit.
 
 ### Prerequisites
 
+If not already done, make sure to have a working candy machine setuped. You can learn all about that watching that awesome and very complete tutorial : https://www.youtube.com/watch?v=9dAnpo0OiAg
+
 **REQUIRE NODEJS VERSION <= 16 (version 17 not supported)**.
 
 * Download a Code Editor such as Visual Studio Code.
